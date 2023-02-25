@@ -1,0 +1,20 @@
+I want to build an application what is a nod to what i wanted to create originally.  This is a timeline of events on a given topic.
+
+For example, if you would like to know more about the situation in urkaine, you would want to dig in but figuring out the time line is difficult. 
+
+So the point of this applcation is for you search for a topic and then organize the articles in order of timeline. 
+
+
+
+Determine a single api to use at first. 
+build out the basic flow
+    - input a topic, date range (optional)
+    - search for topic
+    - return results in date order
+
+This will not require a database at first.  More to consider later. 
+
+I would like there to be a CLI for this application
+I would like to build a frontend timeline view for this as well.
+I think it would be worth exploring in react native
+
